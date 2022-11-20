@@ -1,0 +1,2 @@
+module commons.codec.core {
+}
